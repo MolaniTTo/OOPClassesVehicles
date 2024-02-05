@@ -13,10 +13,10 @@ Total (2/2p) = 10.
 - Objectes:
   Tots els objectes estan correctament definits (estat i comportament) i aplica l’encapsulació (2pts).
 
--Relacions
+- Relacions
 Ha definit correctament totes les relacions (2pts).
 
--Herència
+- Herència
 Implementa correctament l’herència (2pts).
 
 
