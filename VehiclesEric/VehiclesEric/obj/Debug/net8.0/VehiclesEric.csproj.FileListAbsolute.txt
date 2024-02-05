@@ -1,0 +1,15 @@
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\bin\Debug\net8.0\VehiclesEric.exe
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\bin\Debug\net8.0\VehiclesEric.deps.json
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\bin\Debug\net8.0\VehiclesEric.runtimeconfig.json
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\bin\Debug\net8.0\VehiclesEric.dll
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\bin\Debug\net8.0\VehiclesEric.pdb
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\VehiclesEric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\VehiclesEric.AssemblyInfoInputs.cache
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\VehiclesEric.AssemblyInfo.cs
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\VehiclesEric.csproj.CoreCompileInputs.cache
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\VehiclesEric.sourcelink.json
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\VehiclesEric.dll
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\refint\VehiclesEric.dll
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\VehiclesEric.pdb
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\VehiclesEric.genruntimeconfig.cache
+C:\Users\argo\source\repos\MolaniTTo\ClassesVehicles\VehiclesEric\VehiclesEric\obj\Debug\net8.0\ref\VehiclesEric.dll
